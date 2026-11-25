@@ -15,6 +15,8 @@ public class CommonElementsFinder {
      */
     public static Set<Integer> findCommonElements(int[] array1, int[] array2) {
         // TODO
+
+        
         return null;
     }
 
